@@ -18,7 +18,7 @@
     "js-yaml": "^3.14.0",
     "lightstep-js-sdk": "git://github.com/lightstep/lightstep-js-sdk.git",
     "lodash.template": "^4.5.0",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.7"
   },
   "devDependencies": {
     "@zeit/ncc": "^0.22.3",
